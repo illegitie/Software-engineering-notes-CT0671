@@ -1,4 +1,3 @@
-
 ## Agile Methods
 These methods are geared to rapid soft. del.
 - Soft is developed and delivered in increments and process docs and bureaucracy are minimized
