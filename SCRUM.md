@@ -1,5 +1,5 @@
-[[Introduction]]
-
+**[[Introduction]]**
+# Software process models
 ### Software processes involve:
 - Specification: defining what the system should do
 - Design and implementation: defining the organisation of the system and implementing the system
@@ -11,7 +11,7 @@ Good for:
 - Well understood requirements
 - Limited changed during design
 - Businesses with stable requirements
-![[Pasted image 20261106142536.png]]
+![[waterfall.png]]
 ## Incremental Development
 ### Benefits:
 - Cost of accommodating changes is reduced 
@@ -25,7 +25,7 @@ Good for:
 	System structure tends to degrade as new increments are added
 	Unless time and money is spent on refactoring to improve the software, regular change
 	tends to corrupt its structure.
-![[Pasted image 20261106142854.png]]
+![[incremental dev.png]]
 ## Integration and Configuration
 Based on software reuse where systems are **integrated** form existing components or application systems (**COTS**).
 Reused elements may be **configured** to adapt their behavior and functionality to a user’s
@@ -40,7 +40,7 @@ requirements. **e.g, web services**
 - Deploy an increment for use by end-users;
 - More realistic evaluation about practical use of software;
 - Difficult to implement for replacement systems as increments have less functionality than the system being replaced.
-![[Pasted image 20261106144144.png]]
+![[integration dev.png]]
 **Advantages**
 - Customer value can be delivered with each increment so system functionality is available earlier.
 - Early increments act as prototypes for future increments
@@ -50,5 +50,13 @@ requirements. **e.g, web services**
 - Most systems require basic facility test that are used by diff services of a system
 - Essence of iterative processes
 
+## [[Agile Software Development]]
 
-[[Agile Software Development]]
+Agile is software development principle that is geared for rapid software delivery
+
+# SCRUM
+A team-based framework to develop complex systems and products.
+
+Scrum is an agile method with focus on *iterative development* rather than specific agile practices.
+Scrum phases:
+- Initial phase is an *outline planning* phase where you establish the general objectives for the project and design software architecture.

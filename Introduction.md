@@ -22,6 +22,6 @@
 	- Control results
 
 ### Software Quality: standard ISO/IEC 25010
-![[Pasted image 20261006111042.png]]
+![[standard.png]]
 
 [[SCRUM]
