@@ -1,18 +1,17 @@
-
-# Software process models
+# **Software process models**
 ### Software processes involve:
 - Specification: defining what the system should do
 - Design and implementation: defining the organisation of the system and implementing the system
 - Validation: the system does what the customer wants
 - Evolution: responding to changing customer needs
-## Waterfall model
+## **Waterfall model**
 **Plain-driven model: distinct phases**
 Good for:
 - Well understood requirements
 - Limited changed during design
 - Businesses with stable requirements
 ![[waterfall.png]]
-## Incremental Development
+## **Incremental Development**
 ### Benefits:
 - Cost of accommodating changes is reduced 
 	 - Amount of analysis and documentation is reduced
@@ -26,11 +25,11 @@ Good for:
 	Unless time and money is spent on refactoring to improve the software, regular change
 	tends to corrupt its structure.
 ![[incremental dev.png]]
-## Integration and Configuration
+## **Integration and Configuration**
 Based on software reuse where systems are **integrated** form existing components or application systems (**COTS**).
 Reused elements may be **configured** to adapt their behavior and functionality to a user’s
 requirements. **e.g, web services**
-## Incremental delivery
+## **Incremental delivery**
 **Incremental development
 - Develop the system in increments and evaluate each increment before proceeding to the next one.
 - Earlier increments include the highest priority requirements.
@@ -54,7 +53,7 @@ requirements. **e.g, web services**
 
 Agile is software development principle that is geared for rapid software delivery
 
-# SCRUM
+# **SCRUM**
 A team-based framework to develop complex systems and products.
 
 Scrum is an agile method with focus on *iterative development* rather than specific agile practices.
