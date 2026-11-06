@@ -1,4 +1,4 @@
-[[Contents]]
+
 ### Requirement engineering -> Architecture design -> Implementation
 
 ### Each activity depends on the previous one
@@ -24,4 +24,4 @@
 ### Software Quality: standard ISO/IEC 25010
 ![[standard.png]]
 
-[[SCRUM]
+

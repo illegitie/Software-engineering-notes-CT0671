@@ -1,4 +1,4 @@
-**[[Introduction]]**
+
 # Software process models
 ### Software processes involve:
 - Specification: defining what the system should do
