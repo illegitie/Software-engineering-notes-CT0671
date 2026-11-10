@@ -1,4 +1,5 @@
 [[UML]]
+#uml
 # **Behavioral & Event-Driven Modeling**
 Behavioral models depict the dynamic behavior of a system as it executes, showing what happens when the system responds to stimuli from its environment.
 - **Event-Driven Systems:** Many real-time systems are event-driven, operating on the assumption that a system has a finite number of states, and events cause transitions between these states.

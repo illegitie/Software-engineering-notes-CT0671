@@ -1,4 +1,4 @@
-
+#uml 
 ### Classes vs. Objects
 - **Class:** A general definition or descriptor of objects with similar properties (identity, attributes, operations, messages). Represented as a rectangle with Name, Attributes, and Operations.
 - **Object:** A specific instance of a class. The attribute _names_ are the same as the class, but the _values_ are unique to the object.

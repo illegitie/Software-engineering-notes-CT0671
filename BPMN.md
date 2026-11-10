@@ -1,3 +1,4 @@
+#uml 
 [[UML]]
 # **Introduction: Relevance and Uses of BPMN**
 Before diving into the elements, it is important to understand why BPMN is used.

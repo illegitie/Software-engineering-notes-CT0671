@@ -1,3 +1,4 @@
+#uml 
 ### Core Components
 - **Actor:** Someone (user) or something (external system) that exchanges info with the system (triggers inputs or receives outputs).
 - **Use Case:** A discrete task or functional unit within the system representing a set of scenarios tied to a user goal.
